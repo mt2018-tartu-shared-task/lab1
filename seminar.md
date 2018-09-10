@@ -14,6 +14,12 @@ Install sockeye:
 pip install sockeye
 ```
 
+Verify the installation:
+
+```bash
+python -m sockeye.train -h
+```
+
 Now we have our local CPU version of sockeye installed. We will use it in the future to test scripts before running them on HPC server.
 
 ## Sequence copy model
