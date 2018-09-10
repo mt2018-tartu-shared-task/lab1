@@ -5,7 +5,7 @@ Create and activate new conda environment for this course:
 
 ```bash
 conda create -n mtenv python=3.6.3
-conda activate mtenv
+source activate mtenv
 ```
 
 Install sockeye:
